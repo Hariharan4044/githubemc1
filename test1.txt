@@ -1,4 +1,4 @@
 creates test1.txt file
 changed
 and updated
-"its a github file for checking..."
+"its a github file for checking."
